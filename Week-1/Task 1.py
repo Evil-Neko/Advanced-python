@@ -1,0 +1,5 @@
+f_name = input("Your first name? ")
+l_name = input("Your last name? ")
+age = int(input("How old are you? "))
+ph_num = input("Your phone number? ")
+print("You're", f_name, ",", l_name, '\n Your age is', age, '\n Your phone number:', ph_num)
