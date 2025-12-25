@@ -30,6 +30,8 @@ else:
     c2 = m1*m2
     if c1 < 0:
         g = gcd(-c1, c2)
+    else:
+        g = gcd(c1, c2)
     print(f'Here is the irreducible fraction: {c1/g}/{c2/g}')
 
 # Seconf half
