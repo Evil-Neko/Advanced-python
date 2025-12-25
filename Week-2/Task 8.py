@@ -1,5 +1,5 @@
-S1 = list(input('Enter first string: '))
-S2 = list(input('Enter second string: '))
+S1 = list(input('Enter first string: ').upper())
+S2 = list(input('Enter second string: ').upper())
 if not(len(S2) == len(S1)):
     print('NO')
 else:
