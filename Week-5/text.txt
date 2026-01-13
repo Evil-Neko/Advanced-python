@@ -1,0 +1,4 @@
+Some text
+Cause we need to count the text
+And also count the words in text
+Also frequency of words in text

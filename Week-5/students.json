@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Suleiman",
+        "age": 20,
+        "grades": [90, 85, 75, 80]
+    },
+    {
+        "name": "Dima",
+        "age": 21,
+        "grades": [93, 82, 77]
+    },
+    {
+        "name": "Imran",
+        "age": 20,
+        "grades": [83, 75, 68, 79, 88]
+    }
+]
