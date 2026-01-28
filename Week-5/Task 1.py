@@ -18,6 +18,6 @@ with open("analysis.txt", "w") as rec:
             freq = 0
             rec.write(f"Frequency of {i}: ")
             for j in range(len(words)):
-                if i == words[j]:
+                if i.lower() == words[j].lower():
                     freq += 1
             rec.write(f"{freq}\n")

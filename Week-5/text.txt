@@ -1,4 +1,3 @@
-Some text
-Cause we need to count the text
-And also count the words in text
-Also frequency of words in text
+text text text
+word word
+four four four four

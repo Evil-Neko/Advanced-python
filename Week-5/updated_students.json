@@ -4,11 +4,12 @@
         "age": 20,
         "grades": [
             90,
-            85,
+            70,
             75,
-            80
+            80,
+            90
         ],
-        "average_grade": 82.5
+        "average_grade": 81.0
     },
     {
         "name": "Dima",
@@ -16,9 +17,9 @@
         "grades": [
             93,
             82,
-            77
+            67
         ],
-        "average_grade": 84.0
+        "average_grade": 80.66666666666667
     },
     {
         "name": "Imran",
@@ -27,9 +28,9 @@
             83,
             75,
             68,
-            79,
+            80,
             88
         ],
-        "average_grade": 78.6
+        "average_grade": 78.8
     }
 ]
